@@ -114,3 +114,25 @@ Finally, we extend our gratitude to **Haaga-Helia University of Applied Sciences
 
 ## Feedback 💬
 We’d love to hear your thoughts and suggestions about our prototype! Together, let’s contribute to a cleaner and greener future. 🌍♻️
+
+
+
+
+## Pictures 📷
+
+
+![Media (5)](https://github.com/user-attachments/assets/d26ac52b-afe6-488b-a42b-387ad2a64f08)
+
+![Media (6)](https://github.com/user-attachments/assets/3d279cfe-6b23-4cc6-83d8-65a1e11dc1a8)
+
+![Media (7)](https://github.com/user-attachments/assets/1e565dfc-b7c4-4b7b-a5bf-c824a5e0d303)
+
+![Media (8)](https://github.com/user-attachments/assets/d5e4330b-1456-42c0-90c6-3f0b12328c96)
+
+![Media (9)](https://github.com/user-attachments/assets/60f0199b-9044-4a3a-955f-b06e27243ff1)
+
+![Media (11)](https://github.com/user-attachments/assets/c00571d3-a576-4811-9ba5-8a8dbf36c106)
+
+![Media (10)](https://github.com/user-attachments/assets/08c5ee1a-8b83-493d-8588-57f4aab5fd76)
+![Media (12)](https://github.com/user-attachments/assets/afc10cf2-a514-46f4-9f6a-3631cf6093c3)
+
