@@ -1,5 +1,8 @@
 # AI Waste Sorter 🚮✨
 
+
+## ⚠️The full code for this project is available exclusively upon request via email.⚠️
+
 ## What an Amazing Way to End the Semester! 🌟
 
 After four months of hard work at **Haaga-Helia University of Applied Sciences**, we are proud to present **AI Waste Sorter**, an innovative solution for smart and efficient waste management. 🌍✨
