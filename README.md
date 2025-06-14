@@ -1,7 +1,7 @@
 # AI Waste Sorter 🚮✨
 
 
-## ⚠️The full code for this project is available exclusively upon request via email.⚠️
+## ⚠️The full code for this project is available exclusively upon request via email.⚠️ 😊
 
 ## What an Amazing Way to End the Semester! 🌟
 
